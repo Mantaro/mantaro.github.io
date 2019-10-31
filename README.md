@@ -39,3 +39,7 @@ You can also check the rest of opts on [here](https://github.com/Mantaro/Mantaro
 
 If you have more questions or need help [don't hesitate to join our support server](https://support.mantaro.site) and we'll help you sort out your issues.
 
+### Donating
+
+Thanks! You can donate [here](https://www.patreon.com/mantaro)
+
