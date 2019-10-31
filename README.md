@@ -1,6 +1,6 @@
 ## Mantaro Bot - A simple, comprehensive and stable Discord bot
 
-[Mantaro](https://github.com/Mantaro/MantaroBot) is a simple Discord bot used to enhance your Discord experience. It includes many fun and useful features such as moderation, music, games and currency.
+[Mantaro](https://github.com/Mantaro/MantaroBot) is a simple Discord bot used to enhance your Discord experience. It includes many fun and useful features such as moderation, music, games and currency. It's currently in over **400,000 servers** serving over **22 million users**!
 
 This page is hosted in Github Pages and it's available [here](https://github.com/Mantaro/mantaro.github.io/). 
 
