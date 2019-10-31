@@ -27,7 +27,7 @@ A more comprehensive set of features can be found [here](https://github.com/Mant
 
 ### How to use
 
-Glad you asked. We have a (wiki)[https://github.com/Mantaro/MantaroBot/wiki] that probably answers all of your questions. We'll leave the most common asked question here.
+Glad you asked. We have a [wiki](https://github.com/Mantaro/MantaroBot/wiki) that probably answers all of your questions. We'll leave the most common asked question here.
 
 Please omit the <>.
 
