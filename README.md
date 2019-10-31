@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Mantaro Bot - A simple, comprehensive and stable Discord bot.
 
-You can use the [editor on GitHub](https://github.com/Mantaro/mantaro.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<img src=https://i.imgur.com/4ngQfpY.jpg></img>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Mantaro](https://github.com/Mantaro/MantaroBot) is a simple Discord bot used to enhance your Discord experience. It includes many fun and useful features such as moderation, music, games and currency.
+
+This page is hosted in Github Pages and it's available [here](https://github.com/Mantaro/mantaro.github.io/)
 
 ### Markdown
 
