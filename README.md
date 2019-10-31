@@ -2,36 +2,40 @@
 
 [Mantaro](https://github.com/Mantaro/MantaroBot) is a simple Discord bot used to enhance your Discord experience. It includes many fun and useful features such as moderation, music, games and currency.
 
-This page is hosted in Github Pages and it's available [here](https://github.com/Mantaro/mantaro.github.io/)
+This page is hosted in Github Pages and it's available [here](https://github.com/Mantaro/mantaro.github.io/). 
 
-### Markdown
+[Click me to add the bot to your server](https://add.mantaro.site).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Highlights
 
-```markdown
-Syntax highlighted code block
+[Mantaro](https://github.com/Mantaro/MantaroBot) includes many features that you and your server might find incredibly useful or even fun. 
 
-# Header 1
-## Header 2
-### Header 3
+Some of them include: 
 
-- Bulleted
-- List
+- Music playback from Youtube, Twitch, Soundcloud and Bandicam.
+- Currency system, including profiles, dailies, mining, fishing and (soon) pets.
+- Comprehensive (albeit basic) moderation features (ban, kick, mute, prune, softban, etc)
+- Action / RP commands (such as hug, pat, cuddle, etc)
+- Persistent remind system.
+- Imageboard (image retrieval) commands (such as Konachan, Gelbooru, Danbooru, Yande.re, etc)
+- A fair share of "lewd" image commands (Rule34, e621, Yande.re)
+- Games (such as trivia, guess the character, guess the number and guess the pokemon -remember that on the TV back then?)
+- Anime and Character lookup commands.
+- Complete join/leave message implementation (including embedded messages, with images!)
 
-1. Numbered
-2. List
+A more comprehensive set of features can be found [here](https://github.com/Mantaro/MantaroBot/blob/master/FEATURES.md)
 
-**Bold** and _Italic_ and `Code` text
+### How to use
 
-[Link](url) and ![Image](src)
-```
+Glad you asked. We have a (wiki)[https://github.com/Mantaro/MantaroBot/wiki] that probably answers all of your questions. We'll leave the most common asked question here.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Please omit the <>.
 
-### Jekyll Themes
+- How to change prefix? `~>opts prefix set <prefix>`
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mantaro/mantaro.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+You can also check the rest of opts on [here](https://github.com/Mantaro/MantaroBot/wiki/Configuration). If you have more questions [don't hesitate to join our support server](https://support.mantaro.site).
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have more questions or need help [don't hesitate to join our support server](https://support.mantaro.site) and we'll help you sort out your issues.
+
