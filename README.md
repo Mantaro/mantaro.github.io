@@ -12,7 +12,7 @@ This page is hosted in Github Pages and it's available [here](https://github.com
 
 Some of them include: 
 
-- Music playback from Youtube, Twitch, Soundcloud and Bandicam.
+- Music playback from Youtube, Twitch, Soundcloud and Bandcam.
 - Currency system, including profiles, dailies, mining, fishing and (soon) pets.
 - Comprehensive (albeit basic) moderation features (ban, kick, mute, prune, softban, etc)
 - Action / RP commands (such as hug, pat, cuddle, etc)
@@ -41,5 +41,5 @@ If you have more questions or need help [don't hesitate to join our support serv
 
 ### Donating
 
-Thanks! You can donate [here](https://www.patreon.com/mantaro)
+Thanks! You can donate [here](https://www.patreon.com/mantaro) or you can do a one-time donation [here](https://paypal.me/mantarobot)
 
