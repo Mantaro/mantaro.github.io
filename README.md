@@ -4,7 +4,8 @@
 
 This page is hosted in Github Pages and it's available [here](https://github.com/Mantaro/mantaro.github.io/). 
 
-[Click me to add the bot to your server!](https://add.mantaro.site).
+[Click me to add the bot to your server <3](https://add.mantaro.site).
+[Follow me on Twitter :)](https://twitter.com/mantarodiscord)
 
 ### Highlights
 
