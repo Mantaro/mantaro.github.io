@@ -45,5 +45,5 @@ For any business inquiries, email `david.alejandro.rubio@gmail.com`.
 
 ### Donating
 
-Thanks! You can donate [here](https://www.patreon.com/mantaro) or you can do a one-time donation [here](https://paypal.me/mantarobot)
+Thanks! You can donate [here](https://www.patreon.com/mantaro) or you can do a one-time donation [here](https://www.paypal.me/kodemantaro)
 
