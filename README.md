@@ -39,7 +39,7 @@ You can also check the rest of opts on [here](https://github.com/Mantaro/Mantaro
 
 ### Support or Contact
 
-If you have more questions or need help [don't hesitate to join our support server](https://support.mantaro.site) and we'll help you sort out your issues.
+If you have more questions or need help [don't hesitate to join our support server](https://support.mantaro.site) and we'll help you sort out your issues. This is the preferred method of helping general users, as more people can help. 
 
 For any business inquiries, email `contact@mantaro.site`. 
 
