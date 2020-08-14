@@ -1,4 +1,6 @@
-_Configuration guide: https://github.com/Mantaro/MantaroBot/wiki_
+layout: page
+title: "PAGE TITLE"
+permalink: /features/
 
 # Things you can enjoy
 
