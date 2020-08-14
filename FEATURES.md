@@ -1,5 +1,5 @@
 layout: page
-title: "PAGE TITLE"
+title: "Mantaro's Features"
 permalink: /features/
 
 # Things you can enjoy
