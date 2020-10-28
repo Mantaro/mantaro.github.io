@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/**
+ * Remove theme's bolding effect of links on hover, causing the width of the
+ * text to increase, causing lines to shift. Instead, emulate the visual effect
+ * of bolding without modifying text size.
+ */
+a:hover {
+  font-weight: unset;
+  text-shadow: 0px 0px 1px #069;
+}
