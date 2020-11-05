@@ -15,7 +15,9 @@ This page is hosted in Github Pages and it's available [here](https://github.com
 Some of them include: 
 
 - Music playback from Youtube, Twitch, Soundcloud and Bandcam.
-- Currency system, including profiles, dailies, mining, fishing and (soon) pets.
+- Currency system, including profiles, dailies, mining, fishing and pets.
+- Marriage and Waifu system.
+- Pet system that helps you collect more rewards.
 - Comprehensive (albeit basic) moderation features (ban, kick, mute, prune, softban, etc)
 - Action / RP commands (such as hug, pat, cuddle, etc)
 - Persistent remind system.
