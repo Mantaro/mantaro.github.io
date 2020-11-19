@@ -8,6 +8,28 @@
 $font-main: 'IBM Plex Sans', sans-serif;
 $font-code: 'IBM Plex Sans', monospace;
 
+:root {
+    --dark-background-color: #111111;
+    --dark-text-color: #eeeeee;
+}
+
+body {
+    --background-color: #d3dae3;
+    --text-color: #727272;
+}
+
+body.theme-dark {
+    --background-color: var(--dark-background-color);
+    --text-color: var(dark-text-color);
+}
+
+@media (prefers-color-scheme: dark) {
+    body.theme-auto {
+        --background-color: var(--dark-background-color);
+        --text-color: var(--dark-text-color);
+    }
+}
+
 * {
   font-family: $font-main;
 }
