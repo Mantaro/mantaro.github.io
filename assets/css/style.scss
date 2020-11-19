@@ -47,15 +47,15 @@ body.theme-dark {
 }
 
 h3.theme-dark, h4.theme-dark, h5.theme-dark, h6.theme-dark {
-    color: var(dark-text-color-h3);
+    color: var(--dark-text-color-h3);
 }
 
 code.theme-dark {
-    color: var(dark-text-color);
+    color: var(--dark-text-color);
 }
 
 strong.theme-dark {
-    color: var(dark-text-color);
+    color: var(--dark-text-color);
 }
 
 @media (prefers-color-scheme: dark) {
