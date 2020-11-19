@@ -46,15 +46,15 @@ body.theme-dark {
 }
 
 h2.theme-dark {
-    text-color: var(dark-text-color);
+    color: var(dark-text-color);
 }
 
 code.theme-dark {
-    text-color: var(dark-text-color);
+    color: var(dark-text-color);
 }
 
 strong.theme-dark {
-    text-color: var(dark-text-color);
+    color: var(dark-text-color);
 }
 
 @media (prefers-color-scheme: dark) {
