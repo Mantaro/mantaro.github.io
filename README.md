@@ -44,6 +44,6 @@ For any business inquiries, or blacklist inquiries, email `contact@mantaro.site`
 
 Thanks! You can donate [here](https://www.patreon.com/mantaro) or you can do a one-time donation [here](https://www.paypal.me/kodemantaro)
 
-#### Theme
+### Theme
 
 This website uses the [minimal theme](https://github.com/orderedlist/minimal) by ordered list. The license of the theme and of the website is CC-BY-SA-3.0 (Unported)
