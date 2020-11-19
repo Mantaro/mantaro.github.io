@@ -23,10 +23,10 @@ body.theme-dark {
     text-color: var(dark-text-color);
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
     body.theme-auto {
-        --background-color: var(--dark-background-color);
-        --text-color: var(--dark-text-color);
+        background-color: var(--dark-background-color);
+        text-color: var(--dark-text-color);
     }
 }
 
