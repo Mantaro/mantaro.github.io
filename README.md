@@ -11,7 +11,7 @@
 Some of them include: 
 
 - Music playback from Youtube, Twitch, Soundcloud and Bandcamp.
-- Currency system, including profiles, dailies, mining, chopping, fishing, pets and much more.
+- [Currency system](https://github.com/Mantaro/MantaroBot/wiki/Currency-101), including profiles, dailies, mining, chopping, fishing, pets and much more.
 - Marriage and Waifu system.
 - Pet system that helps you collect more rewards.
 - Comprehensive (albeit basic) moderation features (such as ban, kick, mute, prune, softban)
