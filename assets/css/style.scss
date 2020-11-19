@@ -18,18 +18,6 @@ body {
     text-color: #727272;
 }
 
-body.theme-dark {
-    background-color: var(--dark-background-color);
-    text-color: var(dark-text-color);
-}
-
-@media (prefers-color-scheme: light) {
-    body.theme-auto {
-        background-color: var(--dark-background-color);
-        text-color: var(--dark-text-color);
-    }
-}
-
 * {
   font-family: $font-main;
 }
@@ -47,6 +35,33 @@ code {
 footer {
   display: inline;
   line-height: 150%;
+}
+
+/**
+* Dark theme stuff.
+**/
+body.theme-dark {
+    background-color: var(--dark-background-color);
+    text-color: var(dark-text-color);
+}
+
+h2.theme-dark {
+    text-color: var(dark-text-color);
+}
+
+code.theme-dark {
+    text-color: var(dark-text-color);
+}
+
+strong.theme-dark {
+    text-color: var(dark-text-color);
+}
+
+@media (prefers-color-scheme: dark) {
+    body.theme-auto {
+        --background-color: var(--dark-background-color);
+        --text-color: var(--dark-text-color);
+    }
 }
 
 /**
