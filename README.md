@@ -17,7 +17,7 @@ Some of them include:
 - Persistent remind system.
 - Imageboard / Booru (image retrieval) commands, such as Konachan, Gelbooru, Danbooru, Yande.re, and more!
 - A fair share of "lewd" image commands (Rule34, e621, Yande.re)
-- Games (such as trivia, guess the character, guess the number and guess the pokemon -remember that on the TV back then?)
+- Games (such as trivia, guess the character, guess the number and guess the pokemon *remember that on the TV back then?*)
 - Anime and Character lookup commands.
 - Complete join/leave message implementation (including embedded messages, with images!)
 - [Birthday announcement system](https://github.com/Mantaro/MantaroBot/wiki/Birthday-101)
