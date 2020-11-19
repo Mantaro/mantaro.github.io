@@ -34,16 +34,9 @@ code {
 }
 
 footer {
-  display: block;
-  line-height: 150%;
-  position: fixed;
+    visibility: hidden;
 }
 
-@media (max-height: 899px) {
-  footer {
-    visibility: hidden;
-  }
-}
 
 /**
 * Dark theme stuff.
