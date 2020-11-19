@@ -4,17 +4,17 @@ function applyTheme(theme) {
     document.querySelectorAll('h2').forEach(e => {
         e.classList.remove("theme-auto", "theme-light", "theme-dark");
         e.classList.add(`theme-${theme}`);
-    });;
+    });
     
     document.querySelectorAll('strong').forEach(e => {
         e.classList.remove("theme-auto", "theme-light", "theme-dark");
         e.classList.add(`theme-${theme}`);
-    });;
+    });
     
     document.querySelectorAll('code').forEach(e => {
         e.classList.remove("theme-auto", "theme-light", "theme-dark");
         e.classList.add(`theme-${theme}`);
-    });;
+    });
 }
 
 document.addEventListener("DOMContentLoaded", () => {
