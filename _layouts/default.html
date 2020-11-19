@@ -21,6 +21,12 @@
         <p class="view"><a href="{{ site.twitter_url }}">●  Follow me on Twitter</a></p><br>
         <p class="view"><a href="{{ site.github.owner_url }}">●  Mantaro's GitHub Profile</a></p><br>
         <p class="view"><a href="{{ site.invite_url }}">●  Invite Mantaro to your server</a></p><br>
+        
+        <select id="theme">
+          <option value="auto">Auto</option>
+          <option value="light">Light</option>
+          <option value="dark">Dark</option>
+      </select>
       </header>
       <section>
       {{ content }}
@@ -32,4 +38,5 @@
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
+  <script src="{{ base.url | prepend: site.url }}/assets/script.js"></script>
 </html>
