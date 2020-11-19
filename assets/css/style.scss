@@ -43,7 +43,7 @@ footer {
 **/
 body.theme-dark {
     background-color: var(--dark-background-color);
-    text-color: var(dark-text-color);
+    text-color: var(--dark-text-color);
 }
 
 h3.theme-dark, h4.theme-dark, h5.theme-dark, h6.theme-dark {
