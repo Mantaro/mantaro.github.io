@@ -11,6 +11,7 @@ $font-code: 'IBM Plex Sans', monospace;
 :root {
     --dark-background-color: #111111;
     --dark-text-color: #eeeeee;
+    --dark-text-color-h3: #eeeeee;
 }
 
 body {
@@ -45,8 +46,8 @@ body.theme-dark {
     text-color: var(dark-text-color);
 }
 
-h2.theme-dark {
-    color: var(dark-text-color);
+h3.theme-dark, h4.theme-dark, h5.theme-dark, h6.theme-dark {
+    color: var(dark-text-color-h3);
 }
 
 code.theme-dark {
