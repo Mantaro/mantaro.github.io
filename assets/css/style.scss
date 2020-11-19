@@ -34,8 +34,16 @@ code {
 }
 
 footer {
-  display: inline;
+  display: block;
   line-height: 150%;
+  bottom: 10px;
+  position: fixed;
+}
+
+@media (min-height: 400px) {
+  footer {
+    visibility: hidden;
+  }
 }
 
 /**
