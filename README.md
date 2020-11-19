@@ -1,8 +1,8 @@
 ## Mantaro Bot - A simple, comprehensive and stable Discord bot
 
-[Mantaro](https://github.com/Mantaro/MantaroBot) is a simple but powerful Discord bot used to enhance your Discord experience. It includes many fun and useful features such as moderation, music, games and currency. It's currently in over **500,000 servers** serving over **35 million users**!
+[Mantaro](https://github.com/Mantaro/MantaroBot) is a simple but powerful Discord bot used to enhance your Discord experience. It includes many fun and useful features such as moderation, music, games and currency. It's currently in over **525,000 servers** serving over **45 million users**!
 
-[Click me to add the bot to your server <3](https://add.mantaro.site).
+[Click me to add the bot to your server <3](https://add.mantaro.site)
 
 ### Highlights
 
@@ -10,14 +10,14 @@
 
 Some of them include: 
 
-- Music playback from Youtube, Twitch, Soundcloud and Bandcam.
-- Currency system, including profiles, dailies, mining, fishing and pets.
+- Music playback from Youtube, Twitch, Soundcloud and Bandcamp.
+- Currency system, including profiles, dailies, mining, chopping, fishing, pets and much more.
 - Marriage and Waifu system.
 - Pet system that helps you collect more rewards.
-- Comprehensive (albeit basic) moderation features (ban, kick, mute, prune, softban, etc)
-- Action / RP commands (such as hug, pat, cuddle, etc)
+- Comprehensive (albeit basic) moderation features (such as ban, kick, mute, prune, softban)
+- Action / RP commands (such as hug, pat, cuddle, slap, etc)
 - Persistent remind system.
-- Imageboard (image retrieval) commands (such as Konachan, Gelbooru, Danbooru, Yande.re, etc)
+- Imageboard / Booru (image retrieval) commands, such as Konachan, Gelbooru, Danbooru, Yande.re, and more!
 - A fair share of "lewd" image commands (Rule34, e621, Yande.re)
 - Games (such as trivia, guess the character, guess the number and guess the pokemon -remember that on the TV back then?)
 - Anime and Character lookup commands.
