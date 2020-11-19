@@ -2,6 +2,20 @@
 ---
 
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=IBM Plex Sans');
+@import url('https://fonts.googleapis.com/css?family=IBM Plex Mono');
+
+$font-main: 'IBM Plex Sans', sans-serif;
+$font-code: 'IBM Plex Sans', monospace;
+
+* {
+  font-family: $font-main;
+}
+
+code {
+  font-family: $font-code;
+  padding: 1px;
+}
 
 /**
  * Remove theme's bolding effect of links on hover, causing the width of the
