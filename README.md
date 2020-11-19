@@ -22,6 +22,7 @@ Some of them include:
 - Games (such as trivia, guess the character, guess the number and guess the pokemon -remember that on the TV back then?)
 - Anime and Character lookup commands.
 - Complete join/leave message implementation (including embedded messages, with images!)
+- [Birthday announcement system](https://github.com/Mantaro/MantaroBot/wiki/Birthday-101)
 
 A more comprehensive set of features can be found [here](https://github.com/Mantaro/MantaroBot/blob/master/FEATURES.md)
 
