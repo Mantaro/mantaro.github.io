@@ -6,6 +6,26 @@ function applyTheme(theme) {
         e.classList.add(`theme-${theme}`);
     });
     
+    document.querySelectorAll('h3').forEach(e => {
+        e.classList.remove("theme-auto", "theme-light", "theme-dark");
+        e.classList.add(`theme-${theme}`);
+    });
+
+    document.querySelectorAll('h4').forEach(e => {
+        e.classList.remove("theme-auto", "theme-light", "theme-dark");
+        e.classList.add(`theme-${theme}`);
+    });
+    
+    document.querySelectorAll('h5').forEach(e => {
+        e.classList.remove("theme-auto", "theme-light", "theme-dark");
+        e.classList.add(`theme-${theme}`);
+    });
+
+    document.querySelectorAll('h6').forEach(e => {
+        e.classList.remove("theme-auto", "theme-light", "theme-dark");
+        e.classList.add(`theme-${theme}`);
+    });
+
     document.querySelectorAll('strong').forEach(e => {
         e.classList.remove("theme-auto", "theme-light", "theme-dark");
         e.classList.add(`theme-${theme}`);
