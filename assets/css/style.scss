@@ -14,13 +14,13 @@ $font-code: 'IBM Plex Sans', monospace;
 }
 
 body {
-    --background-color: #d3dae3;
-    --text-color: #727272;
+    background-color: #d3dae3;
+    text-color: #727272;
 }
 
 body.theme-dark {
-    --background-color: var(--dark-background-color);
-    --text-color: var(dark-text-color);
+    background-color: var(--dark-background-color);
+    text-color: var(dark-text-color);
 }
 
 @media (prefers-color-scheme: dark) {
