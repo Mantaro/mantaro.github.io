@@ -2,11 +2,7 @@
 
 [Mantaro](https://github.com/Mantaro/MantaroBot) is a simple but powerful Discord bot used to enhance your Discord experience. It includes many fun and useful features such as moderation, music, games and currency. It's currently in over **500,000 servers** serving over **35 million users**!
 
-This page is hosted in Github Pages and it's available [here](https://github.com/Mantaro/mantaro.github.io/). 
-
 [Click me to add the bot to your server <3](https://add.mantaro.site).
-
-[Follow me on Twitter :)](https://twitter.com/mantarodiscord)
 
 ### Highlights
 
@@ -43,7 +39,7 @@ You can also check the rest of opts on [here](https://github.com/Mantaro/Mantaro
 
 If you have more questions or need help [don't hesitate to join our support server](https://support.mantaro.site) and we'll help you sort out your issues. This is the preferred method of helping general users, as more people can help. 
 
-For any business inquiries, email `contact@mantaro.site`. 
+For any business inquiries, or blacklist inquiries, email `contact@mantaro.site`. Otherwise the support server is preferred.
 
 ### Donating
 
