@@ -46,4 +46,6 @@ Thanks! You can donate [here](https://www.patreon.com/mantaro) or you can do a o
 
 ### Theme
 
-This website uses the [minimal theme](https://github.com/orderedlist/minimal) by ordered list. The license of the theme and of the website is CC-BY-SA-3.0 (Unported)
+This website uses the [minimal theme](https://github.com/orderedlist/minimal) by ordered list, and it's hosted on [Github Pages](https://github.com/Mantaro/mantaro.github.io)
+
+The license of the theme and of the website is CC-BY-SA-3.0 (Unported)
