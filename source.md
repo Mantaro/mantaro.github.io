@@ -27,6 +27,6 @@ This website uses javascript only for the dark/light theme switch. It *should* b
 
 Most of the stuff in Mantaro is made by both David Rubio (Kodehawa) and Natan (natanbc).
 
-Special thanks to MrLar and Haxiz for moderating the support server and keeping the wiki up-to-date and pretty.
+Special thanks to MrLar (Lars K.) and Haxiz (Diego Ramirez) for moderating the support server and keeping the wiki up-to-date and pretty.
 
 Special thanks to AdrianTodt for helping on the earlier stages of the bot's life (2017)
