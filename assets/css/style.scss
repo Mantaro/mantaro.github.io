@@ -12,6 +12,7 @@ $font-code: 'IBM Plex Sans', monospace;
     --dark-background-color: #111111;
     --dark-text-color: #eeeeee;
     --dark-text-color-h3: #d3dae3;
+    --dark-text-color-alt: #727272;
 }
 
 body {
@@ -51,11 +52,11 @@ h3.theme-dark, h4.theme-dark, h5.theme-dark, h6.theme-dark {
 }
 
 code.theme-dark {
-    color: var(--dark-text-color);
+    color: var(--dark-text-color-alt);
 }
 
 strong.theme-dark {
-    color: var(--dark-text-color);
+    color: var(--dark-text-color-alt);
 }
 
 @media (prefers-color-scheme: dark) {
