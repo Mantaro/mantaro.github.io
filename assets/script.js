@@ -1,4 +1,3 @@
-// Make librejs happy
 /*    
 @licstart  The following is the entire license notice for the 
 JavaScript code in this page.
@@ -33,8 +32,7 @@ for the JavaScript code in this page.
 */
 
 // Quick and dirty hack to redirect a non-https connection to https
-// Somehow GH doesn't like my stuff.
-// Just force it like this.
+// Somehow GH doesn't like my stuff. Just force it like this.
 let host = "mantaro.site";
 if ((host == window.location.host) && (window.location.protocol != "https:")) {
     window.location.protocol = "https";
@@ -43,44 +41,14 @@ if ((host == window.location.host) && (window.location.protocol != "https:")) {
 function applyTheme(theme) {
     document.body.classList.remove("theme-auto", "theme-light", "theme-dark");
     document.body.classList.add(`theme-${theme}`);
-    document.querySelectorAll('h2').forEach(e => {
-        e.classList.remove("theme-auto", "theme-light", "theme-dark");
-        e.classList.add(`theme-${theme}`);
-    });
     
-    document.querySelectorAll('h3').forEach(e => {
-        e.classList.remove("theme-auto", "theme-light", "theme-dark");
-        e.classList.add(`theme-${theme}`);
-    });
-
-    document.querySelectorAll('h4').forEach(e => {
-        e.classList.remove("theme-auto", "theme-light", "theme-dark");
-        e.classList.add(`theme-${theme}`);
-    });
-    
-    document.querySelectorAll('h5').forEach(e => {
-        e.classList.remove("theme-auto", "theme-light", "theme-dark");
-        e.classList.add(`theme-${theme}`);
-    });
-
-    document.querySelectorAll('h6').forEach(e => {
-        e.classList.remove("theme-auto", "theme-light", "theme-dark");
-        e.classList.add(`theme-${theme}`);
-    });
-
-    document.querySelectorAll('strong').forEach(e => {
-        e.classList.remove("theme-auto", "theme-light", "theme-dark");
-        e.classList.add(`theme-${theme}`);
-    });
-    
-    document.querySelectorAll('code').forEach(e => {
-        e.classList.remove("theme-auto", "theme-light", "theme-dark");
-        e.classList.add(`theme-${theme}`);
-    });
-    
-    document.querySelectorAll('select').forEach(e => {
-        e.classList.remove("theme-auto", "theme-light", "theme-dark");
-        e.classList.add(`theme-${theme}`);
+    // Select queries
+    var queries = ['h2', 'h3', 'h4', 'h5', 'h6', 'strong', 'code', 'select'];
+    queries.forEach(qry => {
+        document.querySelectorAll(qry).forEach(e => {
+            e.classList.remove("theme-auto", "theme-light", "theme-dark");
+            e.classList.add(`theme-${theme}`);
+        });
     });
 }
 
@@ -92,7 +60,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
 document.addEventListener("DOMContentLoaded", () => {
     const savedTheme = localStorage.getItem("theme") || "auto";
-
     applyTheme(savedTheme);
 
     for (const optionElement of document.querySelectorAll("#theme option")) {
