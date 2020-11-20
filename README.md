@@ -21,8 +21,8 @@ Some of them include:
 - Anime and Character lookup commands.
 - [Complete join/leave message implementation](https://github.com/Mantaro/MantaroBot/wiki/Welcome-and-Leave-Messages-tutorial) (including embedded messages, with images!)
 - [Birthday announcement system](https://github.com/Mantaro/MantaroBot/wiki/Birthday-101)
+- Much more! A more comprehensive set of features can be found [here](https://mantaro.site/features.html), or click the "Feature List" link on the sidebar.
 
-A more comprehensive set of features can be found [here](https://github.com/Mantaro/MantaroBot/blob/master/FEATURES.md)
 
 ### How to use
 
