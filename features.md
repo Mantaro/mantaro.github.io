@@ -37,7 +37,7 @@ title: Features
 *   Prune messages
 *   Much more...
 
-## Configuration
+### Configuration
 
 *   A customizable prefix! Use `~>opts prefix set` with your prefix (example `~>opts prefix set !` to set another prefix!
 *   Enjoy over 60 Options to change to your liking! ([See here for more info](https://github.com/Mantaro/MantaroBot/wiki/Configuration))
@@ -45,7 +45,7 @@ title: Features
 *   [Birthday announcer](https://github.com/Mantaro/MantaroBot/wiki/Birthday-101). You won't miss them anymore!
 *   Options include but are not limited to a birthday announcer, server logs, music announcements and much more
 
-## Misc
+### Misc
 *   99.9% uptime and amazing and friendly support! (Support server: `https://support.mantaro.site`)
 *   A constantly updated and improved experience
 *   A reliable music system for your server!
@@ -55,7 +55,7 @@ title: Features
 
 Invite Mantaro to your own server now!: https://add.mantaro.site/
 
-## Some of Mantaro's commands include (but are not limited to)
+### Some of Mantaro's commands include (but are not limited to)
 
 *   **Action Commands** (`bite bloodsuck blush cuddle facedesk highfive holdhands hug kiss lewd lick meow nom nuzzle pat poke pout slap smile stare teehee tickle tsundere`):
     Add anime GIF actions to your conversation and make them funnier
