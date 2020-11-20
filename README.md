@@ -26,13 +26,11 @@ Some of them include:
 
 ### How to use
 
-Glad you asked. We have a [wiki](https://github.com/Mantaro/MantaroBot/wiki) that probably answers all of your questions. We'll leave the most common asked question here.
-
-Please omit the <>.
+Glad you asked. We have a [wiki](https://github.com/Mantaro/MantaroBot/wiki) that probably answers all of your questions. We'll leave the most common asked question here. Please omit the <>.
 
 - How to change prefix? `~>opts prefix set <prefix>`
 
-You can also check the rest of opts on [here](https://github.com/Mantaro/MantaroBot/wiki/Configuration). If you have more questions [don't hesitate to join our support server](https://support.mantaro.site).
+You can also check the rest of configurable options on [here](https://github.com/Mantaro/MantaroBot/wiki/Configuration). If you have more questions [don't hesitate to join our support server](https://support.mantaro.site).
 
 ### Support or Contact
 
