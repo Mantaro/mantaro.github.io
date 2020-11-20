@@ -75,3 +75,18 @@ a:hover {
   font-weight: unset;
   text-shadow: 0px 0px 1px #069;
 }
+
+select {
+    -webkit-appearance: none;
+    -moz-appearance : none;
+    border: 1px solid #ccc;
+    border-radius: 0px;
+    padding: 5px 3px;
+    background-color: #ffffff;
+    text-color: #727272;
+}
+
+select.theme-dark {
+    background-color: var(--dark-background-color);
+    text-color: var(--dark-text-color-alt);
+}
