@@ -28,6 +28,10 @@ title: Features
 *   Want to slap that annoying kid? (Please don't) `~>slap`
 *   there is way more, all with images to go along with them!
 
+### Music
+*   Play music using `~>play`
+*   Unbeatable music quality with (arguably) little to no dropped frames or lag.
+
 ### Moderation
 
 *   Server Logs
