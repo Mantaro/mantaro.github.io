@@ -15,8 +15,8 @@ Some of them include:
 - Comprehensive (albeit basic) moderation features (such as ban, kick, mute, prune, softban)
 - Action / RP commands (such as hug, pat, cuddle, slap, etc)
 - Persistent remind system.
-- Imageboard / Booru (image retrieval) commands, such as Konachan, Gelbooru, Danbooru, Yande.re, and more!
-- A fair share of "lewd" image commands (Rule34, e621, Yande.re)
+- Imageboard / Booru (image retrieval) commands, such as Konachan, Gelbooru, Danbooru, Safebooru, and more!
+- A fair share of "lewd" image commands (Rule34, e621, Yande.re). This only works on NSFW channels.
 - Games (such as trivia, guess the character, guess the number and guess the pokemon *remember that on the TV back then?*)
 - Anime and Character lookup commands.
 - [Complete join/leave message implementation](https://github.com/Mantaro/MantaroBot/wiki/Welcome-and-Leave-Messages-tutorial) (including embedded messages, with images!)
