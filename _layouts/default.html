@@ -3,6 +3,8 @@
   <head>
     <meta charset="UTF-8">
     <meta http-equiv='Content-Security-Policy' CONTENT="default-src 'self' ; script-src 'self' ; style-src 'self' fonts.googleapis.com ; font-src 'self' fonts.gstatic.com ; img-src 'self' data: *.imgur.com *.w3.org; media-src 'self' ; frame-src 'self';">
+    <meta http-equiv="X-Content-Type-Options" content="nosniff" />
+    <meta http-equiv="X-Frame-Options" content="SAMEORIGIN" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
