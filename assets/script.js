@@ -31,13 +31,6 @@ For details and the full license text, see http://creativecommons.org/licenses/b
 for the JavaScript code in this page.
 */
 
-// Quick and dirty hack to redirect a non-https connection to https
-// Somehow GH doesn't like my stuff. Just force it like this.
-let host = "mantaro.site";
-if ((host == window.location.host) && (window.location.protocol != "https:")) {
-    window.location.protocol = "https";
-}
-
 function applyTheme(theme) {
     document.body.classList.remove("theme-auto", "theme-light", "theme-dark");
     document.body.classList.add(`theme-${theme}`);
