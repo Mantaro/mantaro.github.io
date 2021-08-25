@@ -11,7 +11,6 @@ Some of them include:
 - [Currency system](https://github.com/Mantaro/MantaroBot/wiki/Currency-101), including profiles, dailies, mining, chopping, fishing, pets and [much more](https://github.com/Mantaro/MantaroBot/wiki/Currency-102).
 - Marriage and Waifu system.
 - Pet system that helps you collect more rewards.
-- Music playback from Youtube, Twitch, Soundcloud and Bandcamp.
 - Comprehensive (albeit basic) moderation features (such as ban, kick, mute, prune, softban)
 - Action / RP commands (such as hug, pat, cuddle, slap, etc)
 - Persistent remind system.
