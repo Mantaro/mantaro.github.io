@@ -1,6 +1,6 @@
 [Mantaro](https://github.com/Mantaro/MantaroBot) is a simple but powerful Discord bot used to enhance your Discord experience. It includes many fun and useful features such as moderation, music, games and currency. It's currently in over **545,000 servers** serving over **45 million users**!
 
-[Click me to add the bot to your server <3](https://discord.com/oauth2/authorize?client_id=213466096718708737&scope=applications.commands%20bot&permissions=3525702). \
+[Click me to add the bot to your server <3](https://discord.com/oauth2/authorize?client_id=213466096718708737&scope=applications.commands%20bot&permissions=3525702)
 
 ### Highlights
 
