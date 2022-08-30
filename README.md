@@ -8,7 +8,7 @@ Mantaro includes many features that you and your server might find incredibly us
 
 Some of them include: 
 
-- [Currency system](https://github.com/Mantaro/MantaroBot/wiki/Currency-101), including profiles, dailies, mining, chopping, fishing, pets and [much more](https://github.com/Mantaro/MantaroBot/wiki/Currency-102).
+- [Currency system](https://www.mantaro.site/mantaro-wiki/currency/101), including profiles, dailies, mining, chopping, fishing, pets and [much more](https://www.mantaro.site/mantaro-wiki/currency/102).
 - Marriage and Waifu system.
 - Pet system that helps you collect more rewards.
 - Comprehensive (albeit basic) moderation features (such as ban, kick, mute, prune, softban)
@@ -18,18 +18,18 @@ Some of them include:
 - A fair share of "lewd" image commands (Rule34, e621, Yande.re). This only works on NSFW channels.
 - Games (such as trivia, guess the character, guess the number and guess the pokemon *remember that on the TV back then?*)
 - Anime and Character lookup commands.
-- [Complete join/leave message implementation](https://github.com/Mantaro/MantaroBot/wiki/Welcome-and-Leave-Messages-tutorial) (including embedded messages, with images!)
-- [Birthday announcement system](https://github.com/Mantaro/MantaroBot/wiki/Birthday-101)
+- [Complete join/leave message implementation](https://www.mantaro.site/mantaro-wiki/guides/welcome-and-leave-messages) (including embedded messages, with images!)
+- [Birthday announcement system](https://www.mantaro.site/mantaro-wiki/guides/birthday-announcer)
 - Much more! A more comprehensive set of features can be found [here](https://mantaro.site/features.html).
 
 
 ### How to use
 
-Glad you asked. We have a [wiki](https://github.com/Mantaro/MantaroBot/wiki) that probably answers all of your questions. We'll leave the most common asked question here. Please omit the <>.
+Glad you asked. We have a [wiki](https://www.mantaro.site/mantaro-wiki/) that probably answers all of your questions. We'll leave the most common asked question here. Please omit the <>.
 
 - How to change prefix? `~>opts prefix set <prefix>`
 
-You can also check the rest of configurable options on [here](https://github.com/Mantaro/MantaroBot/wiki/Configuration). If you have more questions [don't hesitate to join our support server](https://support.mantaro.site).
+You can also check the rest of configurable options on [here](https://www.mantaro.site/mantaro-wiki/basics/server-configuration). If you have more questions [don't hesitate to join our support server](https://support.mantaro.site).
 
 ### Support or Contact
 
