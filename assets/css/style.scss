@@ -56,15 +56,15 @@ $font-code: 'IBM Plex Sans', monospace;
 }
 
 h1 {
-  @include responsive-font(2.0vmax, 25px);
+  @include responsive-font(2.0vmax, 36px);
 }
 
 h2 {
-  @include responsive-font(1.5vmax, 20px);
+  @include responsive-font(1.5vmax, 26px);
 }
 
 p, li {
-  @include responsive-font(1.0vmax, 16px);
+  @include responsive-font(1.0vmax, 20px);
 }
 
 body {
