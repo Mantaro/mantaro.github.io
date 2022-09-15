@@ -15,6 +15,17 @@ $font-code: 'IBM Plex Sans', monospace;
     --dark-text-color-alt: #d3dae3;
 }
 
+h1 {
+  font-size: 5.0vw;
+}
+h2 {
+  font-size: 3.0vh;
+}
+
+p {
+  font-size: 2vmin;
+}
+
 body {
     background-color: #ffffff;
     color: #727272;
