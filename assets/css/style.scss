@@ -24,7 +24,7 @@ h2 {
 }
 
 p, li {
-  font-size: @include responsive-font(1.3vw, 12px);
+  @include responsive-font(1.3vw, 12px);
 }
 
 body {
