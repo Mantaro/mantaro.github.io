@@ -27,7 +27,7 @@ Some of them include:
 
 Glad you asked. We have a [wiki](https://www.mantaro.site/mantaro-wiki/) that probably answers all of your questions. We'll leave the most common asked question here. Please omit the <>.
 
-You can also check the rest of configurable options on [here](https://www.mantaro.site/mantaro-wiki/basics/server-configuration). If you have more questions [don't hesitate to join our support server](https://support.mantaro.site).
+You can also check the rest of configurable options on [here](https://www.mantaro.site/mantaro-wiki/basics/server-configuration).
 
 ### Support or Contact
 
