@@ -2,7 +2,7 @@
 @licstart  The following is the entire license notice for the 
 JavaScript code in this page.
 
-Copyright (c) 2018-2020 David Rubio
+Copyright (c) 2018 Kodehawa
 
 Creative Commons License Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)
 This is a human-readable summary of the Legal Code.
