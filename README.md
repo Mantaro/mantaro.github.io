@@ -4,17 +4,16 @@
 
 ### Highlights
 
-Mantaro includes many features that you and your server might find incredibly useful or even fun. 
+Mantaro includes many features that you and your server might find incredibly useful and fun.
 
 Some of them include: 
 
 - [Currency system](https://www.mantaro.site/mantaro-wiki/currency/101), including profiles, dailies, mining, chopping, fishing, pets and [much more](https://www.mantaro.site/mantaro-wiki/currency/102).
-- Marriage and Waifu system.
-- Pet system that helps you collect more rewards.
-- Comprehensive (albeit basic) moderation features (such as mute, prune)
+- Marriage and Waifu system (as part of Currency).
+- Pet system that helps you collect more rewards (as part of Currency).
 - Action / RP commands (such as hug, pat, cuddle, slap, etc)
-- Persistent remind system.
-- Imageboard / Booru (image retrieval) commands, such as Konachan, Gelbooru, Danbooru, Safebooru, and more!
+- Persistent reminder system.
+- Booru (image retrieval) commands, such as Konachan, Gelbooru, Danbooru, Safebooru, and more!
 - A fair share of "lewd" image commands (Rule34, e621, Yande.re). This only works on NSFW channels.
 - Games (such as trivia, guess the character, guess the number and guess the pokemon *remember that on the TV back then?*)
 - Anime and Character lookup commands.
@@ -22,11 +21,10 @@ Some of them include:
 - [Birthday announcement system](https://www.mantaro.site/mantaro-wiki/guides/birthday-announcer)
 - Much more! A more comprehensive set of features can be found [here](https://mantaro.site/features.html).
 
-
 ### How to use
 
-Glad you asked. We have a [wiki](https://www.mantaro.site/mantaro-wiki/) that probably answers all of your questions. We'll leave the most common asked question here. Please omit the <>.
-
+Glad you asked. We have a [wiki](https://www.mantaro.site/mantaro-wiki/) that probably answers all of your questions.
+You can see the frequently asked questions in [here](https://www.mantaro.site/mantaro-wiki/basics/FAQ).
 You can also check the rest of configurable options on [here](https://www.mantaro.site/mantaro-wiki/basics/server-configuration).
 
 ### Support or Contact
