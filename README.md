@@ -1,44 +1,15 @@
-[Mantaro](https://github.com/Mantaro/MantaroBot) is a simple but powerful Discord bot used to enhance your Discord experience. It includes many fun and useful features such as moderation, games and currency. It's currently in over **750,000 servers** serving over **60 million users**!
+**Mantaro End of Service Announcement**
 
-[Click me to add the bot to your server <3](https://discord.com/oauth2/authorize?client_id=213466096718708737&scope=applications.commands%20bot&permissions=3525702)
+Thanks you for using Mantaro.
 
-### Highlights
+With a heavy heart we regret to inform you that the service will end at March 1st, 2024.
 
-Mantaro includes many features that you and your server might find incredibly useful and fun.
+Since Mantaro started, we've strived to provide the best service we could offer, but due to financial issues (mostly due to the removal of music caused by YouTube's actions and the dwindling usage of the bot) we have come to the conclusion that it's impossible to keep providing the service in a manner that would satisfy our users.
 
-Some of them include: 
+We would like to express our deepest gratitude to the countless users that have used Mantaro so far, and we sincerely apologize for the inconveniences.
+We're incredibly thankful to have enjoyed the support of so many people on the 8 years the bot has been online.
 
-- [Currency system](https://www.mantaro.site/mantaro-wiki/currency/101), including profiles, dailies, mining, chopping, fishing, pets and [much more](https://www.mantaro.site/mantaro-wiki/currency/102).
-- Marriage and Waifu system (as part of Currency).
-- Pet system that helps you collect more rewards (as part of Currency).
-- Action / RP commands (such as hug, pat, cuddle, slap, etc)
-- Persistent reminder system.
-- Booru (image retrieval) commands, such as Konachan, Gelbooru, Danbooru, Safebooru, and more!
-- A fair share of "lewd" image commands (Rule34, e621, Yande.re). This only works on NSFW channels.
-- Games (such as trivia, guess the character, guess the number and guess the pokemon *remember that on the TV back then?*)
-- Anime and Character lookup commands.
-- [Complete join/leave message implementation](https://www.mantaro.site/mantaro-wiki/guides/welcome-and-leave-messages) (including embedded messages, with images!)
-- [Birthday announcement system](https://www.mantaro.site/mantaro-wiki/guides/birthday-announcer)
-- Much more! A more comprehensive set of features can be found [here](https://mantaro.site/features.html).
+Mantaro's source code will continue to be available at https://github.com/Mantaro/MantaroBot for everyone to see and use (license applies).
+I hope our commitment to open-source software has benefitted some bot developers in their projects.
 
-### How to use
-
-Glad you asked. We have a [wiki](https://www.mantaro.site/mantaro-wiki/) that probably answers all of your questions.
-You can see the frequently asked questions in [here](https://www.mantaro.site/mantaro-wiki/basics/FAQ).
-You can also check the rest of configurable options on [here](https://www.mantaro.site/mantaro-wiki/basics/server-configuration).
-
-### Support or Contact
-
-If you have more questions or need help [don't hesitate to join our support server,](https://support.mantaro.site) and we'll help you sort out your issues. This is the preferred method of helping general users, as more people can help. 
-
-For any business inquiries, or blacklist inquiries, email `contact@mantaro.site`. Otherwise, the support server is preferred.
-
-### Donating
-
-Thanks! You can donate [here](https://www.patreon.com/mantaro), or you can do a one-time donation [here](https://www.paypal.me/kodemantaro)
-
-### Theme
-
-This website uses the [minimal theme by orderedlist](https://github.com/orderedlist/minimal), and it's hosted on [Github Pages](https://github.com/Mantaro/mantaro.github.io)
-
-The license of the theme and of the website is CC-BY-SA-3.0 (Unported)
+*An in-game notice will be displayed for all people that use the bot.*
